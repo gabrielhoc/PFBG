@@ -1,0 +1,326 @@
+ \newcommand{\noop}[1]{}
+\begin{thebibliography}{}
+
+\bibitem[Absy and van~der Hammen, 1976]{absy1976some}
+Absy, M.~L. and van~der Hammen, T. (1976).
+\newblock Some palaeoecological data from {Rondonia, southern part of the
+  Amazon Basin}.
+\newblock {\em Acta Amazonica}, 6(3):293--299.
+
+\bibitem[Adolph and Porter, 1993]{adolph1993temperature}
+Adolph, S.~C. and Porter, W.~P. (1993).
+\newblock Temperature, activity, and lizard life histories.
+\newblock {\em The American Naturalist}, 142(2):273--295.
+
+\bibitem[Bellard et~al., 2012]{bellard2012impacts}
+Bellard, C., Bertelsmeier, C., Leadley, P., Thuiller, W., and Courchamp, F.
+  (2012).
+\newblock Impacts of climate change on the future of biodiversity.
+\newblock {\em Ecology letters}, 15(4):365--377.
+
+\bibitem[Bouckaert et~al., 2014]{bouckaert2014beast}
+Bouckaert, R., Heled, J., K{\"u}hnert, D., Vaughan, T., Wu, C.-H., Xie, D.,
+  Suchard, M.~A., Rambaut, A., and Drummond, A.~J. (2014).
+\newblock Beast 2: a software platform for bayesian evolutionary analysis.
+\newblock {\em PLoS computational biology}, 10(4):e1003537.
+
+\bibitem[Caetano et~al., view]{caetanotime}
+Caetano, G. H.~O., Santos, J.~C., Godinho, L.~B., Cavalcante, V. H. G.~L.,
+  Diele-Viegas, L.~M., Campelo, P.~H., Martins, L.~F., Oliveira, A. F.~S.,
+  Alvarenga, J.~M., Wiederhecker, H.~C., Novaes-Silva, V., Miles, D.~B., Colli,
+  G.~R., and Sinervo, B. ("\noop{3001}in review").
+\newblock Time of activity is a better predictor than environmental temperature
+  for the distribution of a tropical lizard.
+\newblock {\em Oikos}.
+
+\bibitem[Carnaval et~al., 2009]{carnaval2009stability}
+Carnaval, A.~C., Hickerson, M.~J., Haddad, C.~F., Rodrigues, M.~T., and Moritz,
+  C. (2009).
+\newblock Stability predicts genetic diversity in the brazilian atlantic forest
+  hotspot.
+\newblock {\em Science}, 323(5915):785--789.
+
+\bibitem[Carnaval and Moritz, 2008]{carnaval2008historical}
+Carnaval, A.~C. and Moritz, C. (2008).
+\newblock Historical climate modelling predicts patterns of current
+  biodiversity in the brazilian atlantic forest.
+\newblock {\em Journal of Biogeography}, 35(7):1187--1201.
+
+\bibitem[Collevatti et~al., 2012]{collevatti2012recovering}
+Collevatti, R.~G., Ribeiro, M. S.~L., Souza~Neto, A.~C., Franco, A.~A.,
+  Oliveira, G.~d., Terribile, L.~C., et~al. (2012).
+\newblock Recovering the demographical history of a{ Brazilian Cerrado} tree
+  species \textit{Caryocar brasiliensis}: coupling ecological niche modeling
+  and coalescent analyses.
+
+\bibitem[Corripio, 2003]{corripio2003vectorial}
+Corripio, J.~G. (2003).
+\newblock Vectorial algebra algorithms for calculating terrain parameters from
+  {DEM}s and solar radiation modelling in mountainous terrain.
+\newblock {\em International Journal of Geographical Information Science},
+  17(1):1--23.
+
+\bibitem[Costa et~al., 2018]{costa2018biome}
+Costa, G.~C., Hampe, A., Ledru, M.-P., Martinez, P.~A., Mazzochini, G.~G.,
+  Shepard, D.~B., Werneck, F.~P., Moritz, C., and Carnaval, A.~C. (2018).
+\newblock Biome stability in{ South America over the last 30 kyr: Inferences}
+  from long-term vegetation dynamics and habitat modelling.
+\newblock {\em Global ecology and biogeography}, 27(3):285--297.
+
+\bibitem[Davies and Buckley, 2011]{davies2011phylogenetic}
+Davies, T.~J. and Buckley, L.~B. (2011).
+\newblock Phylogenetic diversity as a window into the evolutionary and
+  biogeographic histories of present-day richness gradients for mammals.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 366(1576):2414--2425.
+
+\bibitem[De~Bar et~al., 2018]{de2018late}
+De~Bar, M.~W., Stolwijk, D.~J., McManus, J.~F., Sinninghe~Damst{\'e}, J.~S.,
+  and Schouten, S. (2018).
+\newblock A late quaternary climate record based on long-chain diol proxies
+  from the chilean margin.
+\newblock {\em Climate of the Past}, 14(11):1783--1803.
+
+\bibitem[Drummond et~al., 2005]{drummond2005bayesian}
+Drummond, A.~J., Rambaut, A., Shapiro, B., and Pybus, O.~G. (2005).
+\newblock Bayesian coalescent inference of past population dynamics from
+  molecular sequences.
+\newblock {\em Molecular biology and evolution}, 22(5):1185--1192.
+
+\bibitem[Faith et~al., 2010]{faith2010evosystem}
+Faith, D.~P., Magall{\'o}n, S., Hendry, A.~P., Conti, E., Yahara, T., and
+  Donoghue, M.~J. (2010).
+\newblock Evosystem services: an evolutionary perspective on the links between
+  biodiversity and human well-being.
+\newblock {\em Current Opinion in Environmental Sustainability}, 2(1-2):66--74.
+
+\bibitem[Fick and Hijmans, 2017]{fick2017worldclim}
+Fick, S.~E. and Hijmans, R.~J. (2017).
+\newblock Worldclim 2: new 1-km spatial resolution climate surfaces for global
+  land areas.
+\newblock {\em International journal of climatology}, 37(12):4302--4315.
+
+\bibitem[Frankham, 2005]{frankham2005genetics}
+Frankham, R. (2005).
+\newblock Genetics and extinction.
+\newblock {\em Biological conservation}, 126(2):131--140.
+
+\bibitem[Gainsbury and Colli, 2003]{gainsbury2003lizard}
+Gainsbury, A.~M. and Colli, G.~R. (2003).
+\newblock Lizard assemblages from natural cerrado enclaves in southwestern
+  amazonia: The role of stochastic extinctions and isolation1.
+\newblock {\em Biotropica}, 35(4):503--519.
+
+\bibitem[Grant and Dunham, 1988]{grant1988thermally}
+Grant, B.~W. and Dunham, A.~E. (1988).
+\newblock Thermally imposed time constraints on the activity of the desert
+  lizard \textit{Sceloporus merriami}.
+\newblock {\em Ecology}, 69(1):167--176.
+
+\bibitem[Hague and Routman, 2016]{hague2016does}
+Hague, M. and Routman, E. (2016).
+\newblock Does population size affect genetic diversity? a test with sympatric
+  lizard species.
+\newblock {\em Heredity}, 116(1):92.
+
+\bibitem[Huey, 1991]{huey1991physiological}
+Huey, R.~B. (1991).
+\newblock Physiological consequences of habitat selection.
+\newblock {\em The American Naturalist}, 137:S91--S115.
+
+\bibitem[James et~al., 2013]{james2013introduction}
+James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013).
+\newblock {\em An introduction to statistical learning}, volume 112.
+\newblock Springer.
+
+\bibitem[Kearney and Porter, 2009]{kearney2009mechanistic}
+Kearney, M. and Porter, W. (2009).
+\newblock Mechanistic niche modeling: combining physiological and spatial data
+  to predict species’ ranges.
+\newblock {\em Ecology letters}, 12(4):334--350.
+
+\bibitem[Kimura, 1979]{kimura1979neutral}
+Kimura, M. (1979).
+\newblock The neutral theory of molecular evolution.
+\newblock {\em Scientific American}, 241(5):98--129.
+
+\bibitem[King and Lively, 2012]{king2012does}
+King, K. and Lively, C. (2012).
+\newblock Does genetic diversity limit disease spread in natural host
+  populations?
+\newblock {\em Heredity}, 109(4):199.
+
+\bibitem[Ledo and Colli, 2017]{ledo2017historical}
+Ledo, R. M.~D. and Colli, G.~R. (2017).
+\newblock The historical connections between the {A}mazon and the {A}tlantic
+  forest revisited.
+\newblock {\em Journal of Biogeography}, 44(11):2551--2563.
+
+\bibitem[Leffler et~al., 2012]{leffler2012revisiting}
+Leffler, E.~M., Bullaughey, K., Matute, D.~R., Meyer, W.~K., Segurel, L.,
+  Venkat, A., Andolfatto, P., and Przeworski, M. (2012).
+\newblock Revisiting an old riddle: what determines genetic diversity levels
+  within species?
+\newblock {\em PLoS biology}, 10(9):e1001388.
+
+\bibitem[Mayle, 2004]{mayle2004assessment}
+Mayle, F.~E. (2004).
+\newblock Assessment of the {N}eotropical dry forest refugia hypothesis in the
+  light of palaeoecological data and vegetation model simulations.
+\newblock {\em Journal of Quaternary Science}, 19(7):713--720.
+
+\bibitem[Melo et~al., 2016]{melo2016coalescent}
+Melo, W.~A., Lima-Ribeiro, M.~S., Terribile, L.~C., and Collevatti, R.~G.
+  (2016).
+\newblock Coalescent simulation and paleodistribution modeling for
+  \textit{Tabebuia rosealba} do not support {S}outh {A}merican dry forest
+  refugia hypothesis.
+\newblock {\em PloS one}, 11(7):e0159314.
+
+\bibitem[Oliveira and Marquis, 2002]{oliveira2002cerrados}
+Oliveira, P. and Marquis, R.~J. (2002).
+\newblock {\em The cerrados of {B}razil: ecology and natural history of a
+  neotropical savanna}.
+\newblock Columbia University Press.
+
+\bibitem[Otto-Bliesner et~al., 2006]{otto2006simulating}
+Otto-Bliesner, B.~L., Marshall, S.~J., Overpeck, J.~T., Miller, G.~H., Hu, A.,
+  et~al. (2006).
+\newblock Simulating {A}rctic climate warmth and icefield retreat in the last
+  interglaciation.
+\newblock {\em science}, 311(5768):1751--1753.
+
+\bibitem[Pagel et~al., 2004]{pagel2004bayesian}
+Pagel, M., Meade, A., and Barker, D. (2004).
+\newblock Bayesian estimation of ancestral character states on phylogenies.
+\newblock {\em Systematic biology}, 53(5):673--684.
+
+\bibitem[Paranjpe et~al., 2013]{paranjpe2013evidence}
+Paranjpe, D.~A., Bastiaans, E., Patten, A., Cooper, R.~D., and Sinervo, B.
+  (2013).
+\newblock Evidence of maternal effects on temperature preference in
+  side-blotched lizards: {I}mplications for evolutionary response to climate
+  change.
+\newblock {\em Ecology and evolution}, 3(7):1977--1991.
+
+\bibitem[Pons et~al., 2006]{pons2006sequence}
+Pons, J., Barraclough, T.~G., Gomez-Zurita, J., Cardoso, A., Duran, D.~P.,
+  Hazell, S., Kamoun, S., Sumlin, W.~D., and Vogler, A.~P. (2006).
+\newblock Sequence-based species delimitation for the dna taxonomy of
+  undescribed insects.
+\newblock {\em Systematic biology}, 55(4):595--609.
+
+\bibitem[Porter et~al., 1973]{porter1973behavioral}
+Porter, W., Mitchell, J., Beckman, W., and DeWitt, C. (1973).
+\newblock Behavioral implications of mechanistic ecology.
+\newblock {\em Oecologia}, 13(1):1--54.
+
+\bibitem[Purvis et~al., 2000]{purvis2000nonrandom}
+Purvis, A., Agapow, P.-M., Gittleman, J.~L., and Mace, G.~M. (2000).
+\newblock Nonrandom extinction and the loss of evolutionary history.
+\newblock {\em Science}, 288(5464):328--330.
+
+\bibitem[{R Core Team}, 2018]{r2018}
+{R Core Team} (2018).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[Ratter et~al., 1997]{ratter1997brazilian}
+Ratter, J.~A., Ribeiro, J.~F., and Bridgewater, S. (1997).
+\newblock The brazilian {C}errado vegetation and threats to its biodiversity.
+\newblock {\em Annals of botany}, 80(3):223--230.
+
+\bibitem[Rosauer et~al., 2016]{rosauer2016phylogeography}
+Rosauer, D., Blom, M., Bourke, G., Catalano, S., Donnellan, S., Gillespie, G.,
+  Mulder, E., Oliver, P., Potter, S., Pratt, R., et~al. (2016).
+\newblock Phylogeography, hotspots and conservation priorities: an example from
+  the top end of {A}ustralia.
+\newblock {\em Biological Conservation}, 204:83--93.
+
+\bibitem[Santos et~al., 2014]{santos2014landscape}
+Santos, M.~G., Nogueira, C., Giugliano, L.~G., and Colli, G.~R. (2014).
+\newblock Landscape evolution and phylogeography of \textit{Micrablepharus
+  atticolus} {(Squamata, Gymnophthalmidae), an endemic lizard of the Brazilian
+  Cerrado}.
+\newblock {\em Journal of Biogeography}, 41(8):1506--1519.
+
+\bibitem[Sinervo and Adolph, 1994]{sinervo1994growth}
+Sinervo, B. and Adolph, S.~C. (1994).
+\newblock Growth plasticity and thermal opportunity in \textit{Sceloporus}
+  lizards.
+\newblock {\em Ecology}, 75(3):776--790.
+
+\bibitem[Sinervo et~al., 2010]{sinervo2010erosion}
+Sinervo, B., Mendez-De-La-Cruz, F., Miles, D.~B., Heulin, B., Bastiaans, E.,
+  Villagr{\'a}n-Santa~Cruz, M., Lara-Resendiz, R., Mart{\'\i}nez-M{\'e}ndez,
+  N., Calder{\'o}n-Espinosa, M.~L., Meza-L{\'a}zaro, R.~N., et~al. (2010).
+\newblock Erosion of lizard diversity by climate change and altered thermal
+  niches.
+\newblock {\em Science}, 328(5980):894--899.
+
+\bibitem[Sitch et~al., 2008]{sitch2008evaluation}
+Sitch, S., Huntingford, C., Gedney, N., Levy, P., Lomas, M., Piao, S., Betts,
+  R., Ciais, P., Cox, P., Friedlingstein, P., et~al. (2008).
+\newblock Evaluation of the terrestrial carbon cycle, future plant geography
+  and climate-carbon cycle feedbacks using five {Dynamic Global Vegetation
+  Models (DGVMs)}.
+\newblock {\em Global Change Biology}, 14(9):2015--2039.
+
+\bibitem[Srivastava et~al., 2012]{srivastava2012phylogenetic}
+Srivastava, D.~S., Cadotte, M.~W., MacDonald, A. A.~M., Marushia, R.~G., and
+  Mirotchnick, N. (2012).
+\newblock Phylogenetic diversity and the functioning of ecosystems.
+\newblock {\em Ecology letters}, 15(7):637--648.
+
+\bibitem[Thorpe et~al., 2005]{thorpe2005molecular}
+Thorpe, R.~S., Leadbeater, D.~L., and Pook, C.~E. (2005).
+\newblock Molecular clocks and geological dates: cytochrome \textit{b} of
+  \textit{Anolis extremus} substantially contradicts dating of {B}arbados
+  emergence.
+\newblock {\em Molecular Ecology}, 14(7):2087--2096.
+
+\bibitem[Tigano and Friesen, 2016]{tigano2016genomics}
+Tigano, A. and Friesen, V.~L. (2016).
+\newblock Genomics of local adaptation with gene flow.
+\newblock {\em Molecular Ecology}, 25(10):2144--2164.
+
+\bibitem[van~der Hammen, 1974]{van1974pleistocene}
+van~der Hammen, T. (1974).
+\newblock {The Pleistocene changes of vegetation and climate in tropical South
+  America}.
+\newblock {\em Journal of Biogeography}, pages 3--26.
+
+\bibitem[van~der Hammen and Absy, 1994]{van1994amazonia}
+van~der Hammen, T. and Absy, M.~L. (1994).
+\newblock Amazonia during the last glacial.
+\newblock {\em Palaeogeography, palaeoclimatology, palaeoecology},
+  109(2-4):247--261.
+
+\bibitem[Walther et~al., 2002]{walther2002ecological}
+Walther, G.-R., Post, E., Convey, P., Menzel, A., Parmesan, C., Beebee, T.~J.,
+  Fromentin, J.-M., Hoegh-Guldberg, O., and Bairlein, F. (2002).
+\newblock Ecological responses to recent climate change.
+\newblock {\em Nature}, 416(6879):389.
+
+\bibitem[Werneck, 2011]{werneck2011diversification}
+Werneck, F.~P. (2011).
+\newblock The diversification of eastern {South American} open vegetation
+  biomes: historical biogeography and perspectives.
+\newblock {\em Quaternary Science Reviews}, 30(13-14):1630--1648.
+
+\bibitem[Werneck et~al., 2012]{werneck2012climatic}
+Werneck, F.~P., Nogueira, C., Colli, G.~R., Sites~Jr, J.~W., and Costa, G.~C.
+  (2012).
+\newblock Climatic stability in the {Brazilian Cerrado: implications for
+  biogeographical connections of South American} savannas, species richness and
+  conservation in a biodiversity hotspot.
+\newblock {\em Journal of Biogeography}, 39(9):1695--1706.
+
+\bibitem[Zamudio et~al., 2016]{zamudio2016phenotypes}
+Zamudio, K.~R., Bell, R.~C., and Mason, N.~A. (2016).
+\newblock Phenotypes in phylogeography:{ Species’} traits, environmental
+  variation, and vertebrate diversification.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  113(29):8041--8048.
+
+\end{thebibliography}
